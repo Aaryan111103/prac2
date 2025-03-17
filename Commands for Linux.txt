@@ -1,0 +1,32 @@
+Commands for Linux
+
+ls :- it is to list down the files and directories on which you are working
+ls -a ;- it is to list down all the files including the hidden folders also
+ls -l:- used for listing out the complete description of the current directories with proper details.
+mkdir <file Name> :- it is used to create a directory.
+cd <folder Name> :- used for changing the position from current directory to the target directory
+pwd :- current directory path 
+touch <fileName.txt>:- used to make a new empty file
+cat <fileName> :- it is used to print the content inside the file.
+cat >> <fileName> :- it is used to enter the file where one can write multiple lines.
+ctrl + D :- when writing the content in the file is done it is used to end the writing.
+cd .. :- to get back and out of the opened file.
+rmdir <folderName> :- it is used to remove an empty directory. it will delete the file if and only if the file is empty.
+rm <filename> :- it is used to remove the file.
+rm -r test :- it is used to delete a directory which is not empty.
+cp <sourceFileName><destinationFileName> :- used to copy the content from one directory to other directory. <<<<<<<<  test/hello.txt  test1/hii.txt  >>>>>>>>>>>
+mv < test/hello.txt >< test1 > :- to move a file from its source to a destination and also coul be used for renaming.
+grep :- it is used to find the pattern in a particular position.it is case sensitive 
+grep -I:- to eliminate the issue of case sensitivity we use this command
+set dbName=SQL : - to set the environmental variable we use the set followed by variable name and value.
+env :- list of all the environmental variable.
+
+                                                                       GIT
+
+
+What is the difference between git and GitHub
+
+create a local folder
+create the file and add the data
+right click and click git bash
+git init which means to initialize
